@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-04T16:42:29.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="M9jj1VbJ3l3cQzqbS3QH" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-04T16:56:24.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="IxvNC50-Rxkc-NVdEVtU" version="15.6.8" type="github">
   <diagram id="B1Ihw0d5pY-q-cbHRgSs" name="Page-1">
     <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -63,6 +63,9 @@
         </mxCell>
         <mxCell id="Nu2YDPlTARVFIHre-kGS-20" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="Nu2YDPlTARVFIHre-kGS-16">
           <mxGeometry x="30" y="30" width="41" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Nu2YDPlTARVFIHre-kGS-22" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="120" y="590" width="560" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
