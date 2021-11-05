@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T16:11:32.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" version="15.6.8" etag="nAAvI2xNypfs8hIMI-wn" type="github"><diagram id="orljpYMU1h3U7SXddG8L">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-05T16:19:19.283Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="55wQyyq8N4eQO__UPycT" version="15.6.8" type="github">
+  <diagram id="orljpYMU1h3U7SXddG8L" name="Page-1">
+    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Bn8ARijt2YmBSmJxEEES-1" value="DBEE Pool" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9999FF;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Bn8ARijt2YmBSmJxEEES-2" value="Server 1" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vmware_host;" vertex="1" parent="1">
+          <mxGeometry x="130" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Bn8ARijt2YmBSmJxEEES-3" value="Server 2" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vmware_host;" vertex="1" parent="1">
+          <mxGeometry x="220" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Bn8ARijt2YmBSmJxEEES-4" value="Non-Oracle Pool" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9999FF;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="520" y="80" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Bn8ARijt2YmBSmJxEEES-5" value="Server 1" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vmware_host;" vertex="1" parent="1">
+          <mxGeometry x="530" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Bn8ARijt2YmBSmJxEEES-6" value="Server 2" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vmware_host;" vertex="1" parent="1">
+          <mxGeometry x="620" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Bn8ARijt2YmBSmJxEEES-7" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png;strokeColor=#9999FF;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="385" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Bn8ARijt2YmBSmJxEEES-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;strokeWidth=2;" edge="1" parent="1" source="Bn8ARijt2YmBSmJxEEES-2" target="Bn8ARijt2YmBSmJxEEES-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="570" as="sourcePoint" />
+            <mxPoint x="170" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bn8ARijt2YmBSmJxEEES-9" value="Oracle VLAN" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;strokeColor=#9999FF;strokeWidth=2;" connectable="0" vertex="1" parent="Bn8ARijt2YmBSmJxEEES-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bn8ARijt2YmBSmJxEEES-10" value="" style="html=1;rounded=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="Bn8ARijt2YmBSmJxEEES-3">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="370" y="570" as="sourcePoint" />
+            <mxPoint x="260" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bn8ARijt2YmBSmJxEEES-11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="190" y="430" width="60" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
