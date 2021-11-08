@@ -1,79 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T16:10:50.733Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="XiHmhkImZFziSIOw8WKO" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-08T08:21:10.246Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="oXZfKqXfA2_gtlwuDNv2" version="15.6.8" type="github">
   <diagram id="B1Ihw0d5pY-q-cbHRgSs" name="Page-1">
-    <mxGraphModel dx="1178" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Nu2YDPlTARVFIHre-kGS-1" value="Bålsta1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="Nu2YDPlTARVFIHre-kGS-1" value="Bålsta1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="40" y="80" width="320" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="Nu2YDPlTARVFIHre-kGS-2" value="MX750c" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="Nu2YDPlTARVFIHre-kGS-2" value="MX750c" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="70" y="130" width="120" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Nu2YDPlTARVFIHre-kGS-3" value="MX750c" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="Nu2YDPlTARVFIHre-kGS-3" value="MX750c" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="210.5" y="130" width="120" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Nu2YDPlTARVFIHre-kGS-4" value="FS9200" style="shape=mxgraph.cisco.storage.fibre_channel_disk_subsystem;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="Nu2YDPlTARVFIHre-kGS-4" value="FS9200" style="shape=mxgraph.cisco.storage.fibre_channel_disk_subsystem;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="159" y="370" width="82" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="Nu2YDPlTARVFIHre-kGS-5" value="WAMAS Prod&lt;br&gt;Master" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+        <mxCell id="Nu2YDPlTARVFIHre-kGS-5" value="WAMAS Prod&lt;br&gt;Master" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" parent="1" vertex="1">
           <mxGeometry x="109.5" y="160" width="41" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Nu2YDPlTARVFIHre-kGS-10" value="Lighthouse&#xa;/DWH/Vision" style="group;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;" vertex="1" connectable="0" parent="1">
+        <mxCell id="Nu2YDPlTARVFIHre-kGS-10" value="Lighthouse&#xa;/DWH/Vision" style="group;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="235" y="160" width="71" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Nu2YDPlTARVFIHre-kGS-6" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="Nu2YDPlTARVFIHre-kGS-10">
+        <mxCell id="Nu2YDPlTARVFIHre-kGS-6" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" parent="Nu2YDPlTARVFIHre-kGS-10" vertex="1">
           <mxGeometry width="41" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Nu2YDPlTARVFIHre-kGS-7" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="Nu2YDPlTARVFIHre-kGS-10">
+        <mxCell id="Nu2YDPlTARVFIHre-kGS-7" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" parent="Nu2YDPlTARVFIHre-kGS-10" vertex="1">
           <mxGeometry x="10" y="10" width="41" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Nu2YDPlTARVFIHre-kGS-8" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="Nu2YDPlTARVFIHre-kGS-10">
+        <mxCell id="Nu2YDPlTARVFIHre-kGS-8" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" parent="Nu2YDPlTARVFIHre-kGS-10" vertex="1">
           <mxGeometry x="20" y="20" width="41" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Nu2YDPlTARVFIHre-kGS-9" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="Nu2YDPlTARVFIHre-kGS-10">
+        <mxCell id="Nu2YDPlTARVFIHre-kGS-9" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" parent="Nu2YDPlTARVFIHre-kGS-10" vertex="1">
           <mxGeometry x="30" y="30" width="41" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Nu2YDPlTARVFIHre-kGS-11" value="Bålsta2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="Nu2YDPlTARVFIHre-kGS-11" value="Bålsta2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="440" y="80" width="320" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="Nu2YDPlTARVFIHre-kGS-12" value="MX750c" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="Nu2YDPlTARVFIHre-kGS-12" value="MX750c" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="470" y="130" width="120" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Nu2YDPlTARVFIHre-kGS-13" value="MX750c" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="Nu2YDPlTARVFIHre-kGS-13" value="MX750c" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="610.5" y="130" width="120" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Nu2YDPlTARVFIHre-kGS-14" value="FS9200" style="shape=mxgraph.cisco.storage.fibre_channel_disk_subsystem;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="Nu2YDPlTARVFIHre-kGS-14" value="FS9200" style="shape=mxgraph.cisco.storage.fibre_channel_disk_subsystem;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="559" y="370" width="82" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="Nu2YDPlTARVFIHre-kGS-15" value="WAMAS Prod&lt;br&gt;Standby" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+        <mxCell id="Nu2YDPlTARVFIHre-kGS-15" value="WAMAS Prod&lt;br&gt;Standby" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" parent="1" vertex="1">
           <mxGeometry x="509.5" y="160" width="41" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Nu2YDPlTARVFIHre-kGS-16" value="Lighthouse&#xa;/DWH/Vision" style="group;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;" vertex="1" connectable="0" parent="1">
+        <mxCell id="Nu2YDPlTARVFIHre-kGS-16" value="Lighthouse&#xa;/DWH/Vision&#xa;Standby" style="group;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="635" y="160" width="71" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Nu2YDPlTARVFIHre-kGS-17" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="Nu2YDPlTARVFIHre-kGS-16">
+        <mxCell id="Nu2YDPlTARVFIHre-kGS-17" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" parent="Nu2YDPlTARVFIHre-kGS-16" vertex="1">
           <mxGeometry width="41" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Nu2YDPlTARVFIHre-kGS-18" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="Nu2YDPlTARVFIHre-kGS-16">
+        <mxCell id="Nu2YDPlTARVFIHre-kGS-18" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" parent="Nu2YDPlTARVFIHre-kGS-16" vertex="1">
           <mxGeometry x="10" y="10" width="41" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Nu2YDPlTARVFIHre-kGS-19" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="Nu2YDPlTARVFIHre-kGS-16">
+        <mxCell id="Nu2YDPlTARVFIHre-kGS-19" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" parent="Nu2YDPlTARVFIHre-kGS-16" vertex="1">
           <mxGeometry x="20" y="20" width="41" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Nu2YDPlTARVFIHre-kGS-20" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="Nu2YDPlTARVFIHre-kGS-16">
+        <mxCell id="Nu2YDPlTARVFIHre-kGS-20" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" parent="Nu2YDPlTARVFIHre-kGS-16" vertex="1">
           <mxGeometry x="30" y="30" width="41" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Nu2YDPlTARVFIHre-kGS-22" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="Nu2YDPlTARVFIHre-kGS-22" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="120" y="580" width="560" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Nu2YDPlTARVFIHre-kGS-24" value="" style="html=1;rounded=0;entryX=0.264;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fff2cc;strokeColor=#000000;strokeWidth=4;endArrow=none;endFill=0;" edge="1" parent="1" source="Nu2YDPlTARVFIHre-kGS-22" target="Nu2YDPlTARVFIHre-kGS-1">
+        <mxCell id="Nu2YDPlTARVFIHre-kGS-24" value="" style="html=1;rounded=0;entryX=0.264;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fff2cc;strokeColor=#000000;strokeWidth=4;endArrow=none;endFill=0;" parent="1" source="Nu2YDPlTARVFIHre-kGS-22" target="Nu2YDPlTARVFIHre-kGS-1" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="100" y="550" as="sourcePoint" />
             <mxPoint x="200" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nu2YDPlTARVFIHre-kGS-25" value="" style="html=1;rounded=0;fillColor=#fff2cc;strokeColor=#000000;strokeWidth=4;endArrow=none;endFill=0;entryX=0.737;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Nu2YDPlTARVFIHre-kGS-22" target="Nu2YDPlTARVFIHre-kGS-11">
+        <mxCell id="Nu2YDPlTARVFIHre-kGS-25" value="" style="html=1;rounded=0;fillColor=#fff2cc;strokeColor=#000000;strokeWidth=4;endArrow=none;endFill=0;entryX=0.737;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Nu2YDPlTARVFIHre-kGS-22" target="Nu2YDPlTARVFIHre-kGS-11" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="680" y="570" as="sourcePoint" />
             <mxPoint x="670" y="540" as="targetPoint" />
